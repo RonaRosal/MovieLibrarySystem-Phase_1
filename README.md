@@ -1,8 +1,8 @@
 # MovieLibrarySystem-Phase_1
-Community Library System that add, delete, search, members of the public that uses the library. 
+Community Library System that allows administrator to add, delete, search, members of the public that uses the library. 
 
 
---- PROJECT DESCRIPTION ---
+# Probject Description
 
 1. Introduction
 In this project you develop a software application to solve a real-world problem. In the 
@@ -83,3 +83,10 @@ implementing the Add, Delete and Search methods.
 • Do not use any built-in search, insert, delete method or the like from any C# class
 when implementing those five methods.
 • Do not add any namespace to Member.cs or MemberCollection.cs
+
+
+# What I learned
+
+*
+*
+
